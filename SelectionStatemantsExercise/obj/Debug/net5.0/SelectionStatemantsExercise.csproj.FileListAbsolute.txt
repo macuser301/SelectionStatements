@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.AssemblyInfo.cs
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\bin\Debug\net5.0\SelectionStatemantsExercise.exe
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\bin\Debug\net5.0\SelectionStatemantsExercise.deps.json
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\bin\Debug\net5.0\SelectionStatemantsExercise.runtimeconfig.json
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\bin\Debug\net5.0\SelectionStatemantsExercise.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\bin\Debug\net5.0\SelectionStatemantsExercise.dll
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\bin\Debug\net5.0\ref\SelectionStatemantsExercise.dll
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\bin\Debug\net5.0\SelectionStatemantsExercise.pdb
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.dll
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\ref\SelectionStatemantsExercise.dll
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.pdb
+C:\Users\Robz PC\repos\SelectionStatemantsExercise\SelectionStatemantsExercise\obj\Debug\net5.0\SelectionStatemantsExercise.genruntimeconfig.cache
